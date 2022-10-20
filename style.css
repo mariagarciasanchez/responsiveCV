@@ -758,6 +758,9 @@ html,body{
 .curriculum .row .col{
     width:90%;
 }
+.curriculum h2{
+   font-size: 18px;
+}
 }
 
 @media screen and (max-width:980px){   
