@@ -804,5 +804,8 @@ width: 100%;
 .about h3{
     font-size: 11px;
 }
+.about #play{
+    width: 60%;
+}
 
 }
