@@ -144,6 +144,11 @@ color:white;
     font-size: 30px;
     font-family: 'fira mono';
 }
+.about h4{
+    color: black;
+    font-size: 30px;
+    font-family: 'fira mono';
+}
 
 .about .content-section p{
     font:18px;
@@ -810,5 +815,19 @@ width: 100%;
 .about #play{
     width: 60%;
 }
-
+about .container-interests{
+    justify-content: right;
 }
+.about h3{
+    text-align: right;
+}
+}
+@media screen and (max-width:980px){ 
+.curriculum span{
+    font-size: 8px;
+}
+.curriculum p{
+    font-size: 8px;
+}
+}
+
